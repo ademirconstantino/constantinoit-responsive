@@ -3,7 +3,7 @@
 A **responsive static website** built as a study project for practicing responsive web design. The layout adapts across mobile, tablet, and desktop screens using HTML, CSS, and best-practice responsive techniques.
 
 🔗 **Live Demo:**  
-https://ademirconstantino.github.io/constantinoit-responsive/ :contentReference[oaicite:1]{index=1}
+https://ademirconstantino.github.io/constantinoit-responsive/
 
 ---
 
@@ -16,7 +16,7 @@ This project was created while learning responsive design. The site represents a
 - **Services**  
 - **Contact us**
 
-It showcases clean HTML and CSS and includes responsive layout techniques to ensure a good experience on different screen sizes. :contentReference[oaicite:2]{index=2}
+It showcases clean HTML and CSS and includes responsive layout techniques to ensure a good experience on different screen sizes.
 
 ---
 
@@ -26,7 +26,7 @@ It showcases clean HTML and CSS and includes responsive layout techniques to ens
 - 💡 Simple and clean structure using HTML and CSS
 - 🖼️ Includes hero section and service images
 - ⚙️ Static site — no backend required
-- 🚀 Hosted with GitHub Pages and works on any modern browser :contentReference[oaicite:3]{index=3}
+- 🚀 Hosted with GitHub Pages and works on any modern browser
 
 ---
 
